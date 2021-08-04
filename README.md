@@ -12,4 +12,4 @@ Run `npm install`
 # Run
 
 Run `node encryption-service example.json`
-s
+
