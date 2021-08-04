@@ -1,0 +1,10 @@
+{
+  "input_file": "example.csv",
+  "configuration_fields": [],
+  "job": {
+    "id": 0,
+    "type": "NEW"
+  },
+  "token": "token_here",
+  "userToken": "userToken"
+}

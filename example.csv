@@ -1,0 +1,11 @@
+DataExtractDate,ReportPeriod,FlightType,Arrival_Departure,Domestic_International,FlightOpsCount
+2014-05-01T00:00:00.000,2008-12-01T00:00:00.000,Scheduled,Arrival,International,3668
+2014-05-01T00:00:00.000,2008-12-01T00:00:00.000,Scheduled,Departure,Domestic,12811
+2014-05-01T00:00:00.000,2008-12-01T00:00:00.000,Scheduled,Departure,International,3658
+2014-05-01T00:00:00.000,2009-01-01T00:00:00.000,Charter,Arrival,Domestic,35
+2014-05-01T00:00:00.000,2009-01-01T00:00:00.000,Charter,Arrival,International,6
+2014-05-01T00:00:00.000,2009-01-01T00:00:00.000,Charter,Departure,Domestic,43
+2014-05-01T00:00:00.000,2009-01-01T00:00:00.000,Charter,Departure,International,6
+2014-05-01T00:00:00.000,2009-01-01T00:00:00.000,Commuter,Arrival,Domestic,4420
+2014-05-01T00:00:00.000,2009-01-01T00:00:00.000,Commuter,Arrival,International,80
+2014-05-01T00:00:00.000,2009-01-01T00:00:00.000,Commuter,Departure,Domestic,4420
